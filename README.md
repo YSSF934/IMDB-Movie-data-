@@ -1,0 +1,2 @@
+# IMDB-Movie-data-
+This project looked at various factors that might lead to higher revenue for movies.  The data set on which these findings are based entails films released 1960 - 2015. I decided to explore the impact on revenue caused by a film's genre, budget, and the time of the year in which it was released. I also looked at whether or not the largest production companies were able to generate more revenue due to higher budgets.
